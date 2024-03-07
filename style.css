@@ -1,3 +1,4 @@
+/* Import Google Font - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 *{
   margin: 0;
@@ -151,4 +152,9 @@ body{
   .controls .exchange{
     font-size: 14px;
   }
+}
+
+#mic{
+    width:50px;
+    height:25px;
 }
